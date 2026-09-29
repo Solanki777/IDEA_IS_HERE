@@ -1,4 +1,4 @@
-# IDEA_IS_HER By Mahesh
+# Mahesh's Idea Notebook
 
 A concise record of four product and research ideas for future
 exploration. These are early concepts, not finalized specifications or
