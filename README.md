@@ -126,6 +126,14 @@ specific implementation and consult a registered patent professional in
 the relevant jurisdiction. A broad product idea alone is generally not
 enough for patent protection.
 
+
+
+Why frontend is Slow ?
+- Api is calling many times when you reched the tab (use api caching)
+- img must compressed
+- unuable components are loading
+- scoll then laod Not whole website or page load . Only load that part shown to the user
+
 ------------------------------------------------------------------------
 
 *Document status: Early idea notebook. Update as concepts evolve,
